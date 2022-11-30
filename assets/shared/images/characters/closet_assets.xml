@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="closet_assets.png">
+<SubTexture name="closet_down0000" x="1421" y="1501" width="491" height="697" frameX="0" frameY="-24" frameWidth="491" frameHeight="722" />
+<SubTexture name="closet_down0001" x="950" y="1501" width="471" height="721" frameX="-7" frameY="-1" frameWidth="491" frameHeight="722" />
+<SubTexture name="closet_idle0000" x="471" y="1501" width="479" height="724" frameX="-1" frameY="-10" frameWidth="480" frameHeight="734" />
+<SubTexture name="closet_idle0001" x="0" y="1501" width="471" height="728" frameX="-4" frameY="-6" frameWidth="480" frameHeight="734" />
+<SubTexture name="closet_idle0002" x="897" y="0" width="467" height="734" frameX="-6" frameY="0" frameWidth="480" frameHeight="734" />
+<SubTexture name="closet_idle0003" x="897" y="0" width="467" height="734" frameX="-6" frameY="0" frameWidth="480" frameHeight="734" />
+<SubTexture name="closet_idle0004" x="897" y="0" width="467" height="734" frameX="-6" frameY="0" frameWidth="480" frameHeight="734" />
+<SubTexture name="closet_idle0005" x="897" y="0" width="467" height="734" frameX="-6" frameY="0" frameWidth="480" frameHeight="734" />
+<SubTexture name="closet_idle0006" x="897" y="0" width="467" height="734" frameX="-6" frameY="0" frameWidth="480" frameHeight="734" />
+<SubTexture name="closet_left0000" x="1364" y="0" width="488" height="734" frameX="0" frameY="0" frameWidth="489" frameHeight="734" />
+<SubTexture name="closet_left0001" x="0" y="767" width="477" height="734" frameX="-12" frameY="0" frameWidth="489" frameHeight="734" />
+<SubTexture name="closet_right0000" x="477" y="767" width="475" height="734" frameX="0" frameY="0" frameWidth="482" frameHeight="734" />
+<SubTexture name="closet_right0001" x="952" y="767" width="482" height="734" frameX="0" frameY="0" frameWidth="482" frameHeight="734" />
+<SubTexture name="closet_static0000" x="1852" y="0" width="466" height="734" frameX="0" frameY="0" frameWidth="467" frameHeight="734" />
+<SubTexture name="closet_up0000" x="0" y="0" width="442" height="767" frameX="-5" frameY="0" frameWidth="455" frameHeight="767" />
+<SubTexture name="closet_up0001" x="442" y="0" width="455" height="750" frameX="0" frameY="-17" frameWidth="455" frameHeight="767" />
+</TextureAtlas>
